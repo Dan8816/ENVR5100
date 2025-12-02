@@ -1,0 +1,12 @@
+Table Produced from analyis of EPA data on CoL WWTP from 2021-2024,,,
+Pollutant Exceedances,Typical Source,Likely Origin,Comments
+Fecal Coliform / E. coli,Domestic sewage / human waste,Lawton POTW,Not produced by power plants; indicator of sewage contamination
+Carbonaceous Biochemical Oxygen Demand (CBOD5),Organic material in untreated sewage,Lawton POTW,Indicates incomplete treatment of organics
+Total Suspended Solids (TSS),Suspended grit and organic solids from sewage,Lawton POTW,Sign of poor sedimentation or filtration at WWTP
+Ammonia Nitrogen (NH3-N),Urea decomposition in municipal wastewater,Lawton POTW,Suggests failed nitrification by POTW
+Zinc (Zn),Household plumbing or industrial discharge to POTW,Lawton POTW,Elevated levels may come from municipal sewer users
+Copper (Cu),Plumbing and industrial inputs to POTW,Lawton POTW,Could be traced to POTW’s industrial users
+Temperature,Power plant cooling water,PSO Comanche Facility,Expected byproduct of condenser systems
+Chlorine,Disinfection or cooling system,PSO Comanche Facility,Used in plant water systems; may vary by control methods
+pH,Chemical treatment or boiler discharge,PSO Comanche Facility,May shift due to blowdown or treatment
+Chromium / Nickel / Lead,"Plant corrosion, metallurgy or chemicals",PSO Comanche Facility,Can leach from plant systems if not controlled
